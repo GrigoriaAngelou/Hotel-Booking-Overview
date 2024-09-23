@@ -10,5 +10,5 @@ to see their performance in different fields and then I made a demographic analy
 <br> <br>
 **Discover more:** [here](...)
 <br>
-**Code:** [hotel-booking-demand-clean-data-basic-analysis.ipynb](https://github.com/GrigoriaAngelou/Hotel-Booking-Overview/blob/main/hotel-booking-demand-clean-data-basic-analysis.ipynb)
+**Code:** [hotel booking demand clean data basic analysis.ipynb](https://github.com/GrigoriaAngelou/Hotel-Booking-Overview/blob/main/hotel-booking-demand-clean-data-basic-analysis.ipynb)
 
