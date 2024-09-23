@@ -5,6 +5,9 @@ It contains different informations about two hotel types (City Hotels and Resort
 <br>
 
 I made a cleaning in the dataset and a basic eda using few data visualizations. <br>
-**Code:** https://github.com/GrigoriaAngelou/Hotel-Booking-Overview/blob/main/hotel-booking-demand-clean-data-basic-analysis.ipynb
+I moreover, made a dashboard where I filtered the data to City Hotels and Resort Hotels, where I added a basic overview for each type, then I compared them
+to see their performance in different fields and then I made a demographic analysis with the informations that I had about the customers of each hotel type.
 <br> <br>
-I moreover, made a dashboard where I 
+**Discover more:** [here](...)
+**Code:** [hotel-booking-demand-clean-data-basic-analysis.ipynb](https://github.com/GrigoriaAngelou/Hotel-Booking-Overview/blob/main/hotel-booking-demand-clean-data-basic-analysis.ipynb)
+
