@@ -6,4 +6,5 @@ It contains different informations about two hotel types (City Hotels and Resort
 
 I made a cleaning in the dataset and a basic eda using few data visualizations. <br>
 **Code:** https://github.com/GrigoriaAngelou/Hotel-Booking-Overview/blob/main/hotel-booking-demand-clean-data-basic-analysis.ipynb
-
+<br> <br>
+I moreover, made a dashboard where I 
