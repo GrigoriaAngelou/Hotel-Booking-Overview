@@ -9,5 +9,6 @@ I moreover, made a dashboard where I filtered the data to City Hotels and Resort
 to see their performance in different fields and then I made a demographic analysis with the informations that I had about the customers of each hotel type.
 <br> <br>
 **Discover more:** [here](...)
+<br>
 **Code:** [hotel-booking-demand-clean-data-basic-analysis.ipynb](https://github.com/GrigoriaAngelou/Hotel-Booking-Overview/blob/main/hotel-booking-demand-clean-data-basic-analysis.ipynb)
 
